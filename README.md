@@ -19,4 +19,4 @@ Theme of my dataset-Kanye West《Moon》
 The primary challenges in working with music data stem from restricted access, inconsistent curation, and fragmented distribution, all of which make it difficult to fully analyze and engage with music comprehensively.
 
 Week 3
-URL：Daniel220204.github.io/MCA-2024/verovio.html.
+URL：https://Daniel220204.github.io/MCA-2024/verovio.html.
