@@ -1,6 +1,6 @@
 # \[Enter your portfolio title here\]
 \[Enter your responses to Week 1, tasks 2 and 3 here\]
-Week1
+Week 1
 Theme of my dataset-Kanye West《Moon》
 3 types data
 1.Sheet Music https://musescore.com/user/35581442/scores/6991389?share=copy_link
@@ -18,6 +18,29 @@ Theme of my dataset-Kanye West《Moon》
  
 The primary challenges in working with music data stem from restricted access, inconsistent curation, and fragmented distribution, all of which make it difficult to fully analyze and engage with music comprehensively.
 
+Week 2
+
+
 Week 3
 URL：https://Daniel220204.github.io/MCA-2024/verovio.html.
 Task 2: A comparison of the elements of MusicXML and MEI reveals significant differences in the way they represent music data. Firstly, there is a difference in the representation of musical notes; MusicXML uses the <note> element with its sub-elements <pitch> and <duration> to provide richer semantic information, but MEI shows a more concise structure by using <pname> and <oct> in the <note> element. Secondly, for the representation of time signatures, MusicXML uses the <time> element and its sub-elements <beats> and <beat-type>, while MEI uses the <meterSig> element and its corresponding attributes, and although both convey the same information, the structure of MusicXML is a bit more flexible. Finally, for key signatures, MusicXML expresses them through the <key> element with its sub-elements <fifths> and <mode>, but MEI uses the <keySig> element to express the same. This difference results in MusicXML being better suited for reading, while MEI is better suited for quick parsing. Therefore, when choosing between using MusicXML and MEI, the choice of which to use should be based on the needs of the project.
+
+Week 4
+Task 1:
+I chose these features when generating a jSymbolic analysis of my work
+Range: 74.0
+Mean Pitch: 66.0
+Most Common Pitch Class: 5.0
+Last Pitch: 89.0
+Most Common Rhythmic Value: 0.5
+Task 2:
+Generating a piano roll and pitch histogram
+<img width="546" alt="截屏2024-10-27 20 13 44" src="https://github.com/user-attachments/assets/4afcc94f-7840-4f55-9383-b9ac727da719">
+<img width="906" alt="截屏2024-10-27 20 14 17" src="https://github.com/user-attachments/assets/01fed76b-2829-4ff5-9df4-d6e0cc953cf9">
+<img width="612" alt="截屏2024-10-27 20 14 38" src="https://github.com/user-attachments/assets/3d78cf58-59ca-4d7f-855a-431995466fe0">
+
+Week 5
+Task 1:
+
+Task 2:
+
