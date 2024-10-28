@@ -1,10 +1,10 @@
 # \[Enter your portfolio title here\]
 \[Enter your responses to Week 1, tasks 2 and 3 here\]
 Week 1
-Theme of my dataset-Kanye West《Moon》
+The theme of my dataset-Kanye West《Moon》
 3 types data
-1.Sheet Music https://musescore.com/user/35581442/scores/6991389?share=copy_link
-2.Metadata
+1. Sheet Music https://musescore.com/user/35581442/scores/6991389?share=copy_link
+2. Metadata
 •Key metadata for “Moon” includes:
  Song Title: Moon
  Artist: Kanye West
@@ -13,13 +13,15 @@ Theme of my dataset-Kanye West《Moon》
  Genre: Hip-Hop/Rap
  Track Length: 2:36
  Record Label: GOOD Music, Def Jam Recordings
-3.Recording
- https://github.com/user-attachments/assets/f80dfa26-70a6-4000-b472-cf4e1a726e6e
- 
+3. Recording
+https://github.com/user-attachments/assets/f80dfa26-70a6-4000-b472-cf4e1a726e6e
 The primary challenges in working with music data stem from restricted access, inconsistent curation, and fragmented distribution, all of which make it difficult to fully analyze and engage with music comprehensively.
 
 Week 2
-
+For this week's assignment, I transcribed a piano arrangement of "Moon" by Kanye West. These are screenshots of the transcript.
+<img width="410" alt="截屏2024-10-28 22 13 11" src="https://github.com/user-attachments/assets/6203e5e8-c370-49ed-abf8-e0b2fc3cbdfc">
+<img width="413" alt="截屏2024-10-28 22 13 31" src="https://github.com/user-attachments/assets/3968160c-81f6-464b-9dc3-d238579eefe7">
+<img width="408" alt="截屏2024-10-28 22 13 45" src="https://github.com/user-attachments/assets/0249ca31-58af-4763-bb13-13f96a88da4a">
 
 Week 3
 URL：https://Daniel220204.github.io/MCA-2024/verovio.html.
