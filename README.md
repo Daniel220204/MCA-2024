@@ -43,6 +43,13 @@ Generating a piano roll and pitch histogram
 
 Week 5
 Task 1:
-
+These are the metadata I have selected that are relevant to my work
+·Title: The official name of the transcribed piece
+·Artist: The main performing artist(s) of the piece
+·Publisher: The organization or label responsible for distributing the piece.
+·Release Date: The date when the encoded file was officially released to the public.
+·Genre: The primary music style of the music piece
+·Language: Primary language of the lyrics
+·Key: The musical key of the piece
 Task 2:
 
