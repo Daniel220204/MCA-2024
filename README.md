@@ -53,3 +53,40 @@ These are the metadata I have selected that are relevant to my work
 ·Key: The musical key of the piece
 Task 2:
 
+
+
+
+
+Week 7
+Task 1:
+
+
+Task 2:
+
+
+
+
+
+Week 8
+Task 1:
+[Task 1 from Week 8.xlsx](https://github.com/user-attachments/files/17966654/Task.1.from.Week.8.xlsx)
+Task 2:
+![AnotherMoonWaveform](https://github.com/user-attachments/assets/9621b877-d777-43c6-87a8-faa6187480ed)
+![AnotherMoonSpectrogram](https://github.com/user-attachments/assets/54d9e1d9-ecfb-4c5a-a9f1-683a3b0f8e5a)
+![MoonlightRepriseWaveform](https://github.com/user-attachments/assets/347bdb64-7d6a-4295-8139-c877d8a08e48)
+![MoonlightRepriseSpectrogram](https://github.com/user-attachments/assets/cebe6f8e-977f-4f0b-ae83-3cad36203aab)
+![MoonriseWaveform](https://github.com/user-attachments/assets/f67f4a43-3fcc-4ab9-8f66-61f90fe31b54)
+![MoonriseSpectrogram](https://github.com/user-attachments/assets/bc3f2c62-e383-4687-940f-197ffa607bc3)
+
+Week 9
+Task 1:
+
+
+Task 2:
+
+
+Week 10
+Task 1:
+
+
+Task 2:
