@@ -80,10 +80,22 @@ Task 2:
 
 Week 9
 Task 1:
-
-
+Moonrise<img width="1098" alt="Moonrise1" src="https://github.com/user-attachments/assets/5921ac48-1a22-4da7-b1b7-ce21c8224780">
+Another Moon(song)<img width="1087" alt="AnotherMoon1" src="https://github.com/user-attachments/assets/77587b03-54df-4c4b-856a-1c052d46793d">
+Moonlight Reprise<img width="1093" alt="Moonlight1" src="https://github.com/user-attachments/assets/8f7b0803-86ac-4f8f-9dc2-987000593824">
 Task 2:
-
+Computed Spectrograms to Histograms
+Moonrise![MoonriseSpectrogram](https://github.com/user-attachments/assets/2e4c4af9-b9ff-43e3-b4f1-ae88c734db30)
+Another Moon(song)![AnotherMoonSpectrogram](https://github.com/user-attachments/assets/6b3439eb-b493-423b-a96e-b731f52e3887)
+Moonlight Reprise![MoonlightSpectrogram](https://github.com/user-attachments/assets/b8e51d5c-6a97-4575-a03f-a004397ba378)
+Computed Chromagrams to Histograms
+Moonrise![MoonriseChromagram](https://github.com/user-attachments/assets/10f730c2-37dd-418f-a971-908ca562bed5)
+Another Moon![AnotherMoonChromagram](https://github.com/user-attachments/assets/2ae778bc-474f-4acb-8703-7989f6f50b13)
+Moonlight Reprise![MoonlightChromagram](https://github.com/user-attachments/assets/53db800f-1289-4bb9-bcc0-f7ad02f356c8)
+Computed MFCC's to Histograms
+Moonrise![MoonriseMFCC](https://github.com/user-attachments/assets/6db072a1-7a62-4027-bab4-60e125ad297c)
+Another Moon![AnotherMoonMFCC](https://github.com/user-attachments/assets/12fb07cf-730f-4fb9-aa7e-bfa080d8f5dd)
+Moonlight Reprise![MoonlightMFCC](https://github.com/user-attachments/assets/ebf5e311-acfa-4f9c-8492-753220a90916)
 
 Week 10
 Task 1:
