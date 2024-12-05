@@ -52,10 +52,8 @@ These are the metadata I have selected that are relevant to my work
 ·Language: Primary language of the lyrics
 ·Key: The musical key of the piece
 Task 2:
-
-
-
-
+<img width="1232" alt="Week5Task2" src="https://github.com/user-attachments/assets/a089b46c-9304-4c31-a4c6-f946db8b935e">
+<img width="1233" alt="Week5Task2（2）" src="https://github.com/user-attachments/assets/337c2257-afc2-47df-bd4a-7d8b515a7505">
 
 Week 7
 Task 1:
