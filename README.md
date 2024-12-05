@@ -94,11 +94,12 @@ Another Moon![AnotherMoonChromagram](https://github.com/user-attachments/assets/
 Moonlight Reprise![MoonlightChromagram](https://github.com/user-attachments/assets/53db800f-1289-4bb9-bcc0-f7ad02f356c8)
 Computed MFCC's to Histograms
 Moonrise![MoonriseMFCC](https://github.com/user-attachments/assets/6db072a1-7a62-4027-bab4-60e125ad297c)
-Another Moon![AnotherMoonMFCC](https://github.com/user-attachments/assets/12fb07cf-730f-4fb9-aa7e-bfa080d8f5dd)
+Another Moon![AnotherMoonMFCC](https://github.com/user-attachments/assets/12fb07cf-730f-4fb9-aa7e-bfa080d8f5dd
 Moonlight Reprise![MoonlightMFCC](https://github.com/user-attachments/assets/ebf5e311-acfa-4f9c-8492-753220a90916)
 
 Week 10
 Task 1:
-
-
+<img width="688" alt="Screenshot1" src="https://github.com/user-attachments/assets/2acf9b61-4570-43e5-a0e7-d9668551d369">
+<img width="531" alt="Screenshot2" src="https://github.com/user-attachments/assets/4c6f970a-aa05-4c32-b1b9-d15570fa2c2e">
+<img width="510" alt="Screenshot3" src="https://github.com/user-attachments/assets/5623e96c-b097-47f7-8e87-f36eb22f4634">
 Task 2:
