@@ -103,3 +103,28 @@ Task 1:
 <img width="531" alt="Screenshot2" src="https://github.com/user-attachments/assets/4c6f970a-aa05-4c32-b1b9-d15570fa2c2e">
 <img width="510" alt="Screenshot3" src="https://github.com/user-attachments/assets/5623e96c-b097-47f7-8e87-f36eb22f4634">
 Task 2:
+Original:
+![MoonKanye（Image）-1](https://github.com/user-attachments/assets/54116817-3bc2-4ca9-a291-ec4730895a66)
+![MoonKanye（Image）-2](https://github.com/user-attachments/assets/cc2e055a-0b15-4625-92e6-5903771ecac4)
+![MoonKanye（Image）-3](https://github.com/user-attachments/assets/2f499bab-9fcf-475c-aa2d-5988bcb3bd2c)
+![MoonKanye（Image）-4](https://github.com/user-attachments/assets/1983e036-aab7-43a5-8cb4-827c7952e34e)
+![MoonKanye（Image）-5](https://github.com/user-attachments/assets/550fbdd0-e44b-416d-95bc-cf50ed6a41d6)
+![MoonKanye（Image）-6](https://github.com/user-attachments/assets/033c3d88-3d0f-4953-9364-c8b42da091c1)
+![MoonKanye（Image）-7](https://github.com/user-attachments/assets/97d8b76a-6d09-4a69-a8ce-da313467dcd7)
+![MoonKanye（Image）-8](https://github.com/user-attachments/assets/874cde8e-4374-4850-ae1a-bdb2b7abe2b7)
+![MoonKanye（Image）-9](https://github.com/user-attachments/assets/42aa7c3b-d7bd-45e4-8b4d-71218233558e)
+![MoonKanye（Image）-10](https://github.com/user-attachments/assets/bb2b0f28-8c1e-40f3-a70b-863cfb299fce)
+![MoonKanye（Image）-11](https://github.com/user-attachments/assets/f619084a-383d-47e2-adbb-5374a171eef2)
+recreated:
+![Week10Task2（Image）-1](https://github.com/user-attachments/assets/969a5a89-32ec-423c-b6c5-d104b9e09a4b)
+![Week10Task2（Image）-2](https://github.com/user-attachments/assets/5cce0934-48a0-4a1a-a74a-6bd076cae6ee)
+![Week10Task2（Image）-3](https://github.com/user-attachments/assets/398f28b5-810f-473a-92d4-274da6c4d877)
+![Week10Task2（Image）-4](https://github.com/user-attachments/assets/362fffc8-e0a9-42a1-9e4f-94a839d54c8e)
+![Week10Task2（Image）-5](https://github.com/user-attachments/assets/b9037b27-b205-41a4-b419-45247aa3f901)
+![Week10Task2（Image）-6](https://github.com/user-attachments/assets/7da6dda7-598a-4821-8d06-ea21433d9157)
+![Week10Task2（Image）-7](https://github.com/user-attachments/assets/60e358d4-b940-4e4e-ac3e-7c88ac60610f)
+![Week10Task2（Image）-8](https://github.com/user-attachments/assets/06d9869d-bac2-46c1-bf3f-64fe25cd1ab3)
+![Week10Task2（Image）-9](https://github.com/user-attachments/assets/96fc8909-f1cc-430c-bc66-a68b35fb3b76)
+![Week10Task2（Image）-10](https://github.com/user-attachments/assets/f215272f-241d-409b-97c2-cb320964f9d4)
+Analysis:
+The transcription from the original to the recreated one captures the basic structure, including the rhythmic framework and primary tonal content.  However, significant musical details are lost, such as dynamics, articulations, and pedal markings, which are essential for expression.  Rhythmic complexities and polyphonic voice separation are often oversimplified or inaccurate, leading to misrepresented note groupings.  While the transcription is a useful starting point, it requires substantial manual refinement to accurately reflect the original piece's musical nuance.
