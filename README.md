@@ -77,6 +77,7 @@ Task 2:
 ![MoonlightRepriseSpectrogram](https://github.com/user-attachments/assets/cebe6f8e-977f-4f0b-ae83-3cad36203aab)
 ![MoonriseWaveform](https://github.com/user-attachments/assets/f67f4a43-3fcc-4ab9-8f66-61f90fe31b54)
 ![MoonriseSpectrogram](https://github.com/user-attachments/assets/bc3f2c62-e383-4687-940f-197ffa607bc3)
+Time-frequency analysis is more helpful than just looking at waveforms because it shows not only the loudness of the music but also which tones or pitches are present at any moment. For example, in the spectrogram of Another Moon, the bright yellow and orange areas show where the loudest and most prominent sounds are, like deep bass or higher-pitched melodies. This gives a clearer picture of how the music changes over time, like when a soft section builds into a louder, more intense part. You can’t see these details in the waveform, which only shows overall loudness without telling you what kind of sounds are playing.
 
 Week 9
 Task 1:
@@ -96,6 +97,8 @@ Computed MFCC's to Histograms
 Moonrise![MoonriseMFCC](https://github.com/user-attachments/assets/6db072a1-7a62-4027-bab4-60e125ad297c)
 Another Moon![AnotherMoonMFCC](https://github.com/user-attachments/assets/12fb07cf-730f-4fb9-aa7e-bfa080d8f5dd
 Moonlight Reprise![MoonlightMFCC](https://github.com/user-attachments/assets/ebf5e311-acfa-4f9c-8492-753220a90916)
+Analysis:
+The MFCC histograms for the three tracks highlight both similarities and differences. "Another Moon" and "Moonlight Reprise" have smoother and more balanced patterns, reflecting their calm and consistent sound.  In contrast, "Moonrise" shows more peaks and variations, which align with its more dynamic and intense sound.  The visual differences in the histograms match the tracks' audio characteristics, with "Moonrise" being more energetic and layered, while the other two tracks feel more relaxed and steady.
 
 Week 10
 Task 1:
