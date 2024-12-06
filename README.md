@@ -1,6 +1,6 @@
 # \My portfolio\]
-##Week 1
-###The theme of my dataset
+## Week 1
+### The theme of my dataset
 **Kanye West《Moon》**
 3 types data
 1. Sheet Music https://musescore.com/user/35581442/scores/6991389?share=copy_link
