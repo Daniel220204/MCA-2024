@@ -59,7 +59,7 @@ Week 7
 Task 1:
 The genre classification "Hip-Hop" was added to the “<projectDesc>” and “<notesStmt>” sections to provide clear context and improve the discoverability of the piece. Licensing data, specifying a Creative Commons Attribution 4.0 license, was included under ”<pubStmt>“ in the ”<availability>“ section to clarify usage rights and ensure proper credit attribution. These additions align with MEI guidelines.
 Task 2:
-
+URL: https://Daniel220204.github.io/MCA-2024/metaRAW.html.
 
 
 
