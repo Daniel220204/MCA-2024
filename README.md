@@ -1,7 +1,7 @@
-# \[Enter your portfolio title here\]
-\[Enter your responses to Week 1, tasks 2 and 3 here\]
-Week 1
-The theme of my dataset-Kanye West《Moon》
+# \My portfolio\]
+##Week 1
+###The theme of my dataset
+**Kanye West《Moon》**
 3 types data
 1. Sheet Music https://musescore.com/user/35581442/scores/6991389?share=copy_link
 2. Metadata
