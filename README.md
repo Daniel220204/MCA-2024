@@ -33,8 +33,9 @@ For this week's assignment, I transcribed a piano arrangement of "Moon" by Kanye
 
 ### Task 1: Generating MusicXML and MEI files 
 The first part is to export the sheet music you created last week as MusicXML and MEI. These are the two files
-MusicXML:
+MusicXML: https://Daniel220204.github.io/MCA-2024/Week3MusicXML
 MEI:
+
 
 ### Task 2: Rendering the MEI file using Verovio
 URL：https://Daniel220204.github.io/MCA-2024/verovio.html.
