@@ -1,4 +1,4 @@
-# [\Music Curation And Analytics Portfolio\]
+# Music Curation And Analytics Portfolio
 
 ---
 
