@@ -1,4 +1,4 @@
-# \My portfolio\]
+[Individual Lab Work.csv](https://github.com/user-attachments/files/18045457/Individual.Lab.Work.csv)# \My portfolio\]
 
 ---
 
@@ -34,38 +34,61 @@ For this week's assignment, I transcribed a piano arrangement of "Moon" by Kanye
 ### Task 1: Generating MusicXML and MEI files 
 The first part is to export the sheet music you created last week as MusicXML and MEI. These are the two files
 MusicXML: https://Daniel220204.github.io/MCA-2024/Week3MusicXML
-MEI:
-
+MEI: https://Daniel220204.github.io/MCA-2024/Week3MEI
 
 ### Task 2: Rendering the MEI file using Verovio
 URL：https://Daniel220204.github.io/MCA-2024/verovio.html.
 A comparison of the elements of MusicXML and MEI reveals significant differences in the way they represent music data. Firstly, there is a difference in the representation of musical notes; MusicXML uses the <note> element with its sub-elements <pitch> and <duration> to provide richer semantic information, but MEI shows a more concise structure by using <pname> and <oct> in the <note> element. Secondly, for the representation of time signatures, MusicXML uses the <time> element and its sub-elements <beats> and <beat-type>, while MEI uses the <meterSig> element and its corresponding attributes, and although both convey the same information, the structure of MusicXML is a bit more flexible. Finally, for key signatures, MusicXML expresses them through the <key> element with its sub-elements <fifths> and <mode>, but MEI uses the <keySig> element to express the same. This difference results in MusicXML being better suited for reading, while MEI is better suited for quick parsing. Therefore, when choosing between using MusicXML and MEI, the choice of which to use should be based on the needs of the project.
 
-Week 4
-Task 1:
-I chose these features when generating a jSymbolic analysis of my work
-Range: 74.0
-Mean Pitch: 66.0
-Most Common Pitch Class: 5.0
-Last Pitch: 89.0
-Most Common Rhythmic Value: 0.5
-Task 2:
-Generating a piano roll and pitch histogram
+---
+
+## Week 4: Computational analytics of notated music
+
+### Task 1: Generating a jSymbolic
+I chose these features when generating a jSymbolic analysis of my work. Here's the CSV file.[Upload,Range,Mean_Pitch,Most_Common_Pitch_Class,Last_Pitch,Most_Common_Rhythmic_Value
+"C:\Users\2774752L\Downloads\Moon__Kanye_West (1).mid",74.0, 66.0, 5.0, 89.0, 0.5
+ing Individual Lab Work.csv…]()
+
+**Range: 74.0**
+
+**Mean Pitch: 66.0**
+
+**Most Common Pitch Class: 5.0**
+
+**Last Pitch: 89.0**
+
+**Most Common Rhythmic Value: 0.5**
+
+### Task 2: Generating a piano roll and a pitch histogram
+
 <img width="546" alt="截屏2024-10-27 20 13 44" src="https://github.com/user-attachments/assets/4afcc94f-7840-4f55-9383-b9ac727da719">
 <img width="906" alt="截屏2024-10-27 20 14 17" src="https://github.com/user-attachments/assets/01fed76b-2829-4ff5-9df4-d6e0cc953cf9">
 <img width="612" alt="截屏2024-10-27 20 14 38" src="https://github.com/user-attachments/assets/3d78cf58-59ca-4d7f-855a-431995466fe0">
 
-Week 5
-Task 1:
-These are the metadata I have selected that are relevant to my work
-·Title: The official name of the transcribed piece
-·Artist: The main performing artist(s) of the piece
-·Publisher: The organization or label responsible for distributing the piece.
-·Release Date: The date when the encoded file was officially released to the public.
-·Genre: The primary music style of the music piece
-·Language: Primary language of the lyrics
-·Key: The musical key of the piece
-Task 2:
+---
+
+## Week 5: Standards in curation
+
+### Task 1: Metadata Scheme
+
+These are the metadata I have selected that are relevant to my work:
+
+**Title: The official name of the transcribed piece**
+
+**Artist: The main performing artist(s) of the piece**
+
+**Publisher: The organization or label responsible for distributing the piece.**
+
+**Release Date: The date when the encoded file was officially released to the public.**
+
+**Genre: The primary music style of the music piece**
+
+**Language: Primary language of the lyrics**
+
+**Key: The musical key of the piece**
+
+### Task 2: Generating a piano roll and a pitch histogram
+
 <img width="1232" alt="Week5Task2" src="https://github.com/user-attachments/assets/a089b46c-9304-4c31-a4c6-f946db8b935e">
 <img width="1233" alt="Week5Task2（2）" src="https://github.com/user-attachments/assets/337c2257-afc2-47df-bd4a-7d8b515a7505">
 
