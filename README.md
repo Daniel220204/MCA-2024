@@ -4,7 +4,7 @@
 
 ## Week 1: Basics of Music Data
 
-### Task 1:Identify a Theme
+### Task 1: Identify a Theme
 
 My dataset focuses on Kanye West's song "Moon" from the 2021 album Donda. It includes three types of data: the musical scores, which are available on 
 MuseScore(https://musescore.com/user/35581442/scores/6991389?share=copy_link). Metadata Can be found on Apple Music or other Music platforms. What I've found so far are the song title(Moon), artist(Kanye West), album(Donda), featured artists (Kid Cudi and Don Toliver), genre (Hip-Hop/Rap), track length (2:36), and record label (GOOD Music and Def Jam Recordings), For the audio recordings, the song"Moon" can be found on platforms like Spotify or Youtube(https://github.com/user-attachments/assets/f80dfa26-70a6-4000-b472-cf4e1a726e6e). 
@@ -135,31 +135,44 @@ Time-frequency analysis is more helpful than just looking at waveforms because i
 ### Task 1: Extract features
 
 For this week's task, I used the same audio track as last week's task. Below is a screenshot from my Sonic Visualiser
+
 **Moonrise**
-Moonrise<img width="1098" alt="Moonrise1" src="https://github.com/user-attachments/assets/5921ac48-1a22-4da7-b1b7-ce21c8224780">
+<img width="1098" alt="Moonrise1" src="https://github.com/user-attachments/assets/5921ac48-1a22-4da7-b1b7-ce21c8224780">
 **Another Moon(song)**
-Another Moon(song)<img width="1087" alt="AnotherMoon1" src="https://github.com/user-attachments/assets/77587b03-54df-4c4b-856a-1c052d46793d">
+<img width="1087" alt="AnotherMoon1" src="https://github.com/user-attachments/assets/77587b03-54df-4c4b-856a-1c052d46793d">
 **Moonlight Reprise**
-Moonlight Reprise<img width="1093" alt="Moonlight1" src="https://github.com/user-attachments/assets/8f7b0803-86ac-4f8f-9dc2-987000593824">
+<img width="1093" alt="Moonlight1" src="https://github.com/user-attachments/assets/8f7b0803-86ac-4f8f-9dc2-987000593824">
 
 ### Task 2: Computing and visualising histograms of features
 
 **Task 2.1: Computed Spectrograms to Histograms**
 
 **Computed spectrogram to Histograms**
-Moonrise![MoonriseSpectrogram](https://github.com/user-attachments/assets/2e4c4af9-b9ff-43e3-b4f1-ae88c734db30)
-Another Moon(song)![AnotherMoonSpectrogram](https://github.com/user-attachments/assets/6b3439eb-b493-423b-a96e-b731f52e3887)
-Moonlight Reprise![MoonlightSpectrogram](https://github.com/user-attachments/assets/b8e51d5c-6a97-4575-a03f-a004397ba378)
+
+**Moonrise**
+![MoonriseSpectrogram](https://github.com/user-attachments/assets/2e4c4af9-b9ff-43e3-b4f1-ae88c734db30)
+**Another Moon(song)**
+![AnotherMoonSpectrogram](https://github.com/user-attachments/assets/6b3439eb-b493-423b-a96e-b731f52e3887)
+**Moonlight Reprise**
+![MoonlightSpectrogram](https://github.com/user-attachments/assets/b8e51d5c-6a97-4575-a03f-a004397ba378)
 
 **Computed Chromagrams to Histograms**
-Moonrise![MoonriseChromagram](https://github.com/user-attachments/assets/10f730c2-37dd-418f-a971-908ca562bed5)
-Another Moon![AnotherMoonChromagram](https://github.com/user-attachments/assets/2ae778bc-474f-4acb-8703-7989f6f50b13)
-Moonlight Reprise![MoonlightChromagram](https://github.com/user-attachments/assets/53db800f-1289-4bb9-bcc0-f7ad02f356c8)
+
+**Moonrise**
+![MoonriseChromagram](https://github.com/user-attachments/assets/10f730c2-37dd-418f-a971-908ca562bed5)
+**Another Moon(song)**
+![AnotherMoonChromagram](https://github.com/user-attachments/assets/2ae778bc-474f-4acb-8703-7989f6f50b13)
+**Moonlight Reprise**
+![MoonlightChromagram](https://github.com/user-attachments/assets/53db800f-1289-4bb9-bcc0-f7ad02f356c8)
 
 **Computed MFCC's to Histograms**
-Moonrise![MoonriseMFCC](https://github.com/user-attachments/assets/6db072a1-7a62-4027-bab4-60e125ad297c)
-Another Moon![AnotherMoonMFCC](https://github.com/user-attachments/assets/12fb07cf-730f-4fb9-aa7e-bfa080d8f5dd
-Moonlight Reprise![MoonlightMFCC](https://github.com/user-attachments/assets/ebf5e311-acfa-4f9c-8492-753220a90916)
+
+**Moonrise**
+![MoonriseMFCC](https://github.com/user-attachments/assets/6db072a1-7a62-4027-bab4-60e125ad297c)
+**Another Moon(song)**
+![AnotherMoonMFCC](https://github.com/user-attachments/assets/12fb07cf-730f-4fb9-aa7e-bfa080d8f5dd)
+**Moonlight Reprise**
+![MoonlightMFCC](https://github.com/user-attachments/assets/ebf5e311-acfa-4f9c-8492-753220a90916)
 
 ### Task 2.2: Analysis
 
@@ -204,6 +217,7 @@ For this Individual Lab Work, I have used the same tracks from the previous 2 we
 ![Week10Task2（Image）-8](https://github.com/user-attachments/assets/06d9869d-bac2-46c1-bf3f-64fe25cd1ab3)
 ![Week10Task2（Image）-9](https://github.com/user-attachments/assets/96fc8909-f1cc-430c-bc66-a68b35fb3b76)
 ![Week10Task2（Image）-10](https://github.com/user-attachments/assets/f215272f-241d-409b-97c2-cb320964f9d4)
+
 ### Task 2.2: Analysis
 
 The transcription from the original to the recreated one captures the basic structure, including the rhythmic framework and primary tonal content.  However, significant musical details are lost, such as dynamics, articulations, and pedal markings, which are essential for expression.  Rhythmic complexities and polyphonic voice separation are often oversimplified or inaccurate, leading to misrepresented note groupings.  While the transcription is a useful starting point, it requires substantial manual refinement to accurately reflect the original piece's musical nuance.
