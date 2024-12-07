@@ -33,11 +33,15 @@ For this week's assignment, I transcribed a piano arrangement of "Moon" by Kanye
 
 ### Task 1: Generating MusicXML and MEI files 
 The first part is to export the sheet music you created last week as MusicXML and MEI. These are the two files
+
 MusicXML: https://Daniel220204.github.io/MCA-2024/Week3MusicXML
+
 MEI: https://Daniel220204.github.io/MCA-2024/Week3MEI
 
 ### Task 2: Rendering the MEI file using Verovio
+
 URL：https://Daniel220204.github.io/MCA-2024/verovio.html.
+
 A comparison of the elements of MusicXML and MEI reveals significant differences in the way they represent music data. Firstly, there is a difference in the representation of musical notes; MusicXML uses the <note> element with its sub-elements <pitch> and <duration> to provide richer semantic information, but MEI shows a more concise structure by using <pname> and <oct> in the <note> element. Secondly, for the representation of time signatures, MusicXML uses the <time> element and its sub-elements <beats> and <beat-type>, while MEI uses the <meterSig> element and its corresponding attributes, and although both convey the same information, the structure of MusicXML is a bit more flexible. Finally, for key signatures, MusicXML expresses them through the <key> element with its sub-elements <fifths> and <mode>, but MEI uses the <keySig> element to express the same. This difference results in MusicXML being better suited for reading, while MEI is better suited for quick parsing. Therefore, when choosing between using MusicXML and MEI, the choice of which to use should be based on the needs of the project.
 
 ---
@@ -89,8 +93,10 @@ These are the metadata I have selected that are relevant to my work:
 
 ### Task 2: Modifying the MEI file
 
-This is the new MEI file with the elements I selected added
+**This is the new MEI file with the elements I selected added**
+
 https://Daniel220204.github.io/MCA-2024/Week5UpdatedMEIFile
+
 <img width="1232" alt="Week5Task2" src="https://github.com/user-attachments/assets/a089b46c-9304-4c31-a4c6-f946db8b935e">
 <img width="1233" alt="Week5Task2（2）" src="https://github.com/user-attachments/assets/337c2257-afc2-47df-bd4a-7d8b515a7505">
 
@@ -103,13 +109,15 @@ https://Daniel220204.github.io/MCA-2024/Week5UpdatedMEIFile
 The genre classification "Hip-Hop" was added to the “<projectDesc>” and “<notesStmt>” sections to provide clear context and improve the discoverability of the piece. Licensing data, specifying a Creative Commons Attribution 4.0 license, was included under ”<pubStmt>“ in the ”<availability>“ section to clarify usage rights and ensure proper credit attribution. These additions align with MEI guidelines.
 
 ### Task 2: Render the newly created MEI file with Verovio.
-URL: https://Daniel220204.github.io/MCA-2024/metaRAW.html.
+
+URL: https://Daniel220204.github.io/MCA-2024/metaRAW.html
 
 ---
 
 ## Week 8: Music as sound
 
 ### Task 1: Find and describe 3 audio tracks relating to my theme
+
 [Task 1 from Week 8.xlsx](https://github.com/user-attachments/files/17966654/Task.1.from.Week.8.xlsx)
 
 ### Task 2: Perform basic analysis of my 3 tracks in SonicVisualizer
