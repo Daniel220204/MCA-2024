@@ -33,12 +33,12 @@ For this week's assignment, I transcribed a piano arrangement of "Moon" by Kanye
 
 ### Task 1: Generating MusicXML and MEI files 
 The first part is to export the sheet music you created last week as MusicXML and MEI. These are the two files
+MusicXML:
+MEI:
 
-
+### Task 2: Rendering the MEI file using Verovio
 URL：https://Daniel220204.github.io/MCA-2024/verovio.html.
-
-
-Task 2: A comparison of the elements of MusicXML and MEI reveals significant differences in the way they represent music data. Firstly, there is a difference in the representation of musical notes; MusicXML uses the <note> element with its sub-elements <pitch> and <duration> to provide richer semantic information, but MEI shows a more concise structure by using <pname> and <oct> in the <note> element. Secondly, for the representation of time signatures, MusicXML uses the <time> element and its sub-elements <beats> and <beat-type>, while MEI uses the <meterSig> element and its corresponding attributes, and although both convey the same information, the structure of MusicXML is a bit more flexible. Finally, for key signatures, MusicXML expresses them through the <key> element with its sub-elements <fifths> and <mode>, but MEI uses the <keySig> element to express the same. This difference results in MusicXML being better suited for reading, while MEI is better suited for quick parsing. Therefore, when choosing between using MusicXML and MEI, the choice of which to use should be based on the needs of the project.
+A comparison of the elements of MusicXML and MEI reveals significant differences in the way they represent music data. Firstly, there is a difference in the representation of musical notes; MusicXML uses the <note> element with its sub-elements <pitch> and <duration> to provide richer semantic information, but MEI shows a more concise structure by using <pname> and <oct> in the <note> element. Secondly, for the representation of time signatures, MusicXML uses the <time> element and its sub-elements <beats> and <beat-type>, while MEI uses the <meterSig> element and its corresponding attributes, and although both convey the same information, the structure of MusicXML is a bit more flexible. Finally, for key signatures, MusicXML expresses them through the <key> element with its sub-elements <fifths> and <mode>, but MEI uses the <keySig> element to express the same. This difference results in MusicXML being better suited for reading, while MEI is better suited for quick parsing. Therefore, when choosing between using MusicXML and MEI, the choice of which to use should be based on the needs of the project.
 
 Week 4
 Task 1:
