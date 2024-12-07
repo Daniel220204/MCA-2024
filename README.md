@@ -1,4 +1,4 @@
-# \My portfolio\]
+# [\Music Curation And Analytics Portfolio\]
 
 ---
 
